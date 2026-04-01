@@ -18,11 +18,13 @@
 
 ## 🛠️ Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)  
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)  
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)  
-![Git](https://img.shields.io/badge/Git-red?logo=git)  
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)  
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-red?logo=git&style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-blue?logo=cisco&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-blue?logo=terraform&style=for-the-badge)
 
 ---
 
