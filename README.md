@@ -36,7 +36,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-✅ Cela rend la section visuellement attractive et facile à lire.
 ---
 
 ## 📊 Monitoring & Tools
@@ -65,12 +64,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
-## 📊 GitHub Stats
-
-![Mariem GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariem-werghemmi&show_icons=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariem-werghemmi&layout=compact&theme=dark)
 
 ---
 
