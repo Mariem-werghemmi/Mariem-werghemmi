@@ -28,22 +28,19 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mariem-werghemmi
-&show_icons=true&theme=dark)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Mariem-werghemmi&show_icons=true&theme=dark)  
 
 ---
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariem-werghemmi
-&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariem-werghemmi&layout=compact&theme=dark)  
 
 ---
 
 ## 📈 GitHub Activity Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mariem-werghemmi
-&theme=github)  
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mariem-werghemmi&theme=github)  
 
 ---
 
